@@ -1,0 +1,8 @@
+git:
+  filter_type: dir
+  source_file_dir: content/en
+  source_file_extension: strings
+  file_format: GITHUBMARKDOWN
+  source_language: en
+  translation_files_expression: 'content/<lang>'
+  
